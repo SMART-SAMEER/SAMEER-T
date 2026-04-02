@@ -17,4 +17,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Sameer T's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMART-SAMEER&show_icons=true&theme=tokyonight)
+![Sameer T's GitHub Stats](https://github.com/SMART-SAMEER)
